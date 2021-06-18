@@ -36,3 +36,5 @@ The estimated infrastructure cost we spent on Polkadot adds up to $18,000. There
 
 - Subscan for Polkadot Network: https://polkadot.subscan.io/
 - Subscan Service Status: https://subscan.statuspage.io/
+
+The source code of this proposal is hosted on [GitHub](https://github.com/itering/subscan-treasury-proposals/blob/master/infrastructure-costs-2021-march-to-may/polkadot.md).
