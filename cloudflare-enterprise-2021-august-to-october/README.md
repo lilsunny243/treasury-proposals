@@ -42,7 +42,7 @@ The technical support for Cloudflare enterprise users is apparently better than 
 
 We have received financial support from Treasury during the past month, and such support proved fruitful. This proposal is for financing Subscan's upgrade to the Cloudflare enterprise plan, which amounts to 312.5 DOTs. This includes 5000 $USD per month, and 3 months (August 2021 ~ October 2021) in total, according to the MA30 price (1 DOT ≈ 16 $USD).
 
-The quotation of the enterprise plan for Subscan can be found on [GitHub]().
+The quotation of the enterprise plan for Subscan can be found on [GitHub](https://github.com/itering/subscan-treasury-proposals/blob/master/cloudflare-enterprise-2021-august-to-october/cloudflare-enterprise-quotation.xlsx).
 
 In case we missed any information or you have any questions, please feel free to inquire us.
 
@@ -53,4 +53,4 @@ In case we missed any information or you have any questions, please feel free to
 - Cloudflare incident on June 2nd: <https://www.cloudflarestatus.com/incidents/zbzjv8sm3g94>
 - Cloudflare incident on June 8th: <https://www.cloudflarestatus.com/incidents/2hnqwq90dlrk>
 
-The source code of this proposal is hosted on [GitHub]().
+The source code of this proposal is hosted on [GitHub](https://github.com/itering/subscan-treasury-proposals/tree/master/cloudflare-enterprise-2021-august-to-october).
