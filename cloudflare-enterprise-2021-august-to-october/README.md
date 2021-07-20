@@ -1,4 +1,4 @@
-# Cloudflare Enterprise Plan for Subscan from July 2021 to September 2021
+# Cloudflare Enterprise Plan for Subscan from August 2021 to October 2021
 
 Subscan is an aggregate high-precision blockchain explorer for Substrate-based chains. We have supported several influential blockchains, including Polkadot, Kusama, and Westend over a year. For many users, Subscan is their first stop in the blockchain world. As we continue to deliver new features and support more blockchains, our user base is on the steady rise. Therefore, high robustness and availability are currently among our major concerns.
 
@@ -38,7 +38,11 @@ Also, a relatively large proportion of Subscan users comes from mainland China, 
 
 The technical support for Cloudflare enterprise users is apparently better than other plans as well. We will be able to contact the support engineers, if there is any incident, via emails and even phone calls rather than just tickets. This allows us to become more proactive and advantageous in providing highly avaialble services to Subscan users in the Polkadot ecosystem.
 
+## The Financial Support
+
 We have received financial support from Treasury during the past month, and such support proved fruitful. This proposal is for financing Subscan's upgrade to the Cloudflare enterprise plan, which amounts to 312.5 DOTs. This includes 5000 $USD per month, and 3 months (August 2021 ~ October 2021) in total, according to the MA30 price (1 DOT ≈ 16 $USD).
+
+The quotation of the enterprise plan for Subscan can be found on [GitHub]().
 
 In case we missed any information or you have any questions, please feel free to inquire us.
 
@@ -48,3 +52,5 @@ In case we missed any information or you have any questions, please feel free to
 - Cloudflare Argo: <https://www.cloudflare.com/products/argo-smart-routing/>
 - Cloudflare incident on June 2nd: <https://www.cloudflarestatus.com/incidents/zbzjv8sm3g94>
 - Cloudflare incident on June 8th: <https://www.cloudflarestatus.com/incidents/2hnqwq90dlrk>
+
+The source code of this proposal is hosted on [GitHub]().
