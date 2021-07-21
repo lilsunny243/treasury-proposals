@@ -1,10 +1,10 @@
 # Cloudflare Enterprise Plan for Subscan from August 2021 to October 2021
 
-Subscan is an aggregate high-precision blockchain explorer for Substrate-based chains. We have supported several influential blockchains, including Polkadot, Kusama, and Westend over a year. For many users, Subscan is their first stop in the blockchain world. As we continue to deliver new features and support more blockchains, our user base is on the steady rise. Therefore, high robustness and availability are currently among our major concerns.
+Subscan is an aggregate high-precision blockchain explorer for Substrate-based chains. We have been supporting several influential blockchains, including Polkadot, Kusama, Rococo, and Westend for over a year. For many users, Subscan is their first stop in the blockchain world. As we continue to deliver new features and support more blockchains, our user base is on the steady rise. Therefore, high robustness and availability are currently among our major concerns.
 
-## Why We Can't Do without Firewall?
+## Why We Can't Do Without a Firewall?
 
-In the past few months, we have become one of the victims of DDoS attacks multiple times. For example, there are some of the screenshots from the Google Cloud Platform Load Balancer and our Nginx monitoring system during one of the attacks:
+In the past few months, we have become one of many victims of multiple DDoS attacks. For example, here are some of the screenshots from the Google Cloud Platform Load Balancer and our Nginx monitoring system during one of the attacks:
 
 ![](./chart-nginx-under-attack.png)
 ![](./chart-gcp-load-balancer-under-attack.png)
@@ -13,22 +13,22 @@ The attacker generated much more packets and requests per second than usual. Thi
 
 ![](./cloudflare-firewall-analysis-june-21.png)
 
-Fortunately, with Cloudflare, we are able to mitigate the impact of those attempts and Subscan has not been outage due to DDoS attacks since using Cloudflare.
+Fortunately, we are able to mitigate the impact of those attempts and Subscan has not had any major outage due to DDoS attacks since using Cloudflare.
 
 ## Why We Need the Cloudflare Enterprise Plan?
 
-In June, we had been utilizing Cloudflare for some months. More than several users reported multiple service interruptions in certain areas during the month. Benefit from the complete monitoring pipeline built by Subscan DevOps team, we noticed and observed the issues shortly after it was raised. For example, there are two dashboard snapshots on June 2nd and June 8th, but showing a very similar phenomenon:
+Up until June, we had been utilizing Cloudflare for some months. A considerable number of users reported multiple service interruptions in certain areas during the month. Benefit from the complete monitoring pipeline built by Subscan DevOps team, we noticed and observed the issues shortly after it was raised. For example, here are two dashboard snapshots on June 2nd and June 8th, which showing a very similar phenomenon:
 
 ![](./cloudflare-public-plan-incident-june-2nd.png)
 ![](./cloudflare-public-plan-incident-june-8th.png)
 
-With careful diagnosis and analysis, we managed to pinpoint the cause. They coincided with the Cloudflare incidents of public plans. The screenshot below recorded the announcement and postmortem by our DevOps team explaining the incident at that time:
+With careful diagnosis and analysis, we managed to pinpoint the cause. They coincided with some Cloudflare incidents of the Pro plan. The screenshot below recorded the announcement and postmortem by our DevOps team explaining the incident at that time:
 
 ![](./cloudflare-public-plan-incident-impacted-subscan.png)
 
-After consulting with Cloudflare sales and support, we realized that the Enterprise plan is a great choice that meets our higher availability requirements, just as they suggested. Argo smart routing, one core feature included in the enterprise plan, can help us re-route the traffic during zonal network failures. The enhanced WAF rules can be even more accurate and effective in blocking the attackers. Beyond that, there are also several features that we can utilize to improve Subscan's accessibility and reliability.
+After consulting with Cloudflare sales and support, we realized that the enterprise plan is a great choice that meets our high availability requirements, just as they suggested. Argo smart routing, one core feature included in the enterprise plan, can help us re-route the traffic during zonal network failures. The enhanced WAF rules can be even more accurate and effective in blocking the attackers. Beyond that, here are also several features that we can utilize to improve Subscan's accessibility and reliability.
 
-## What other features can the Cloudflare Enterprise plan offer to us?
+## What Other Features Can the Cloudflare Enterprise Plan Offer to Us?
 
 Opting into the Cloudflare enterprise plan will bring about other advantages besides higher availability.
 
@@ -40,11 +40,11 @@ The technical support for Cloudflare enterprise users is apparently better than 
 
 ## The Financial Support
 
-We have received financial support from Treasury during the past month, and such support proved fruitful. This proposal is for financing Subscan's upgrade to the Cloudflare enterprise plan, which amounts to 967 DOTs. This includes 5000 $USD per month, and 3 months (August 2021 ~ October 2021) in total, according to the EMA30 price `1 DOT ≈ 15.5 $USD` in July 20th.
+We have received financial support from the Polkadot treasury during the past month, and such support proved fruitful. This proposal is for financing Subscan's upgrade to the Cloudflare enterprise plan, which amounts to 967 DOTs. This includes 5000 $USD per month, and 3 months in total (August 2021 ~ October 2021), according to the EMA30 price `1 DOT ≈ 15.5 $USD`.
 
 The quotation of the enterprise plan for Subscan can be found on [GitHub](https://github.com/itering/subscan-treasury-proposals/blob/master/cloudflare-enterprise-2021-august-to-october/cloudflare-enterprise-quotation.xlsx).
 
-In case we missed any information or you have any questions, please feel free to inquire us.
+In case we missed any information or you have any questions, please feel free to send us an inquiry.
 
 ## References
 
