@@ -1,40 +1,44 @@
 # The Infrastructure Costs of Subscan for Polkadot Network from June 2021 to August 2021
 
-Subscan is an aggregated Blockchain explorer for Substrate-based chains. We have supported several chains, such as Polkadot, Kusama, and Westend, for more than one year. We have seen an encouraging trend in the number of users and their activeness since last August. However, with the rapid growth of users, stability and reliability in infrastructure are becoming a challenge. We have to pay large bills to ensure the quality of our service.
+Subscan is an aggregated Blockchain explorer for Substrate-based chains. We have supported several chains, such as Polkadot, Kusama, and Westend, for more than one year. We have seen an encouraging trend in the number of users and their level of activity. However, with the rapid growth of users, stability and reliability in infrastructure are becoming a challenge. As a result, Subscan has to expend more resources to ensure the quality of the service.
 
-Subscan is supposed to be a financially independent service in the long run. Although Subscan is starting to generate some revenue, it still falls short for the time being. Therefore, we wish to get some financial support of the Polkadot Treasury to continue our commitment to the improvement of our service.
+In the long run, we foresee Subscan is being a financially independent service. Although Subscan is starting to generate some revenue, it currently falls short of supporting the infrastructure costs. Therefore, we are looking for financial support from Polkadot Treasury to help to continue providing a realiable explorer service to the community.
 
 ## Current Service Scale of Subscan
 
-Here are some statistics of the current service scale of Subscan.
+Below are some metrics from Cloudflare and Subscan's monitoring system for the last few weeks.
 
-![](subscan-cloudflare.png)
+*Subscan traffic overview:*
+![](https://github.com/itering/subscan-treasury-proposals/raw/master/infrastructure-costs-2021-june-to-august/subscan-cloudflare.png)
 
-![](subscan-qps-per-network.png)
+*Subscan API traffic and distribution:*
+![](https://github.com/itering/subscan-treasury-proposals/raw/master/infrastructure-costs-2021-june-to-august/subscan-qps-per-network.png)
 
-As the charts shows Subscan's RPS (requests per second) and its distribution in the last 2 weeks, we can see that Subscan for Polkadot, Kusama, Westend, and Rococo are still the majority of the Subscan user sources. This value is seeming to decrease gradually, from the last time we submit the proposal ~80% to this season ~70%.
+As the charts demonstrate, Polkadot, Kusama, Westend, and Rococo are the major user traffic of Subscan. This request-per-second value is showing a decreasing trend from ~80% the last time we submitted the proposal to ~70% currently.
 
-We also launched the [service status page](https://subscan.statuspage.io/) in the last few months. In order to improve the transparency of the Subscan service, some core metrics from our backend monitoring system have been published on it. Any user in the community is able to watch the incidents, scheduled maintenance, along with the real-time request success rate and service response time graph, etc.
+We also launched the [service status page](https://subscan.statuspage.io/) in the last few months. In order to improve the transparency of the Subscan service, several core metrics of our backend have been published on it. Any user in the community is able to watch the incidents, scheduled maintenances, real-time request success rate, service response time graph, etc.
+
+![](https://github.com/itering/subscan-treasury-proposals/raw/master/infrastructure-costs-2021-june-to-august/subscan-statuspage-metrics.png)
 
 ## Billing Info
 
-The infrastructure cost refers to what we spent on Subscan on the Google Cloud Platform.
+The infrastructure cost refers to what we have spent on Google Cloud Platform.
 
 ### June 2021
 
-![](cost-table-june.png)
+![](https://github.com/itering/subscan-treasury-proposals/raw/master/infrastructure-costs-2021-june-to-august/cost-table-june.png)
 
 Subtotal in June: $7,384.03
 
 ### July 2021
 
-![](cost-table-july.png)
+![](https://github.com/itering/subscan-treasury-proposals/raw/master/infrastructure-costs-2021-june-to-august/cost-table-july.png)
 
 Subtotal in July: $7,865.29
 
 ### August 2021
 
-![](cost-table-august.png)
+![](https://github.com/itering/subscan-treasury-proposals/raw/master/infrastructure-costs-2021-june-to-august/cost-table-august.png)
 
 Subtotal in August: $8,643.68
 
@@ -42,7 +46,7 @@ Subtotal in August: $8,643.68
 
 `$7,384.03 + $7,865.29 + $8,643.68 = $23,893`
 
-*Compute Engine*, *Cloud Logging*, and *Cloud SQL* are the three primary services, among which *Compute Engine* alone constitutes around 70% of the total cost. Detailed billing info and other relevant proof are available in private upon request.
+*Compute Engine*, *Cloud Logging*, and *Cloud SQL* are the three primary services, among which *Compute Engine* alone constitutes around 70% of the total cost. Detailed billing info and other relevant proof are available upon request.
 
 The estimated infrastructure cost we spent on Polkadot, Kusama, Westend, and Rococo adds up to $16,725 according to the request distribution chart. Therefore, the amount we are requesting is 616 DOT (1 DOT ≈ 27.15 $USD). Such support is indispensable for our goal to capitalize on economies of scale.
 
