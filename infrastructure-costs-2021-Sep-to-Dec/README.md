@@ -32,7 +32,7 @@ The infrastructure cost refers to what we have spent on Google Cloud Platform.
 
 ### September 2021
 
-![](https://github.com/itering/subscan-treasury-proposals/raw/master/infrastructure-costs-2021-Sep-to-Dec/9_2021.jpeg)
+![](https://github.com/itering/subscan-treasury-proposals/raw/master/infrastructure-costs-2021-Sep-to-Dec/09_2021.jpeg)
 
 Subtotal in September: $9,370.69
 
