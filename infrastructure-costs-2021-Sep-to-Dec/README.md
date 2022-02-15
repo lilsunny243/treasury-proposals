@@ -61,7 +61,8 @@ Subtotal in December: $10,349.90
 
 *Compute Engine*, *Cloud Logging*, and *Cloud SQL* are the three primary services, among which *Compute Engine* alone `constitutes around 75%` of the total cost. Detailed billing info and other relevant proof are available upon request.
 
-The estimated infrastructure cost we spent on Polkadot, Kusama, Westend, and Rococo adds up to `$28,705` according to the request distribution chart. Therefore, the amount we are requesting is `1354 DOT (1 DOT ≈ 21.20 $USD)`. Such support is indispensable for our goal to capitalize on economies of scale.
+The estimated infrastructure cost we spent on Polkadot, Kusama, Westend, and Rococo adds up to `$28,705` according to the request distribution chart. Therefore, the amount we are requesting is `1354 DOT (1 DOT ≈ 21.20 $USD)`. 
+
 
 ## References
 
