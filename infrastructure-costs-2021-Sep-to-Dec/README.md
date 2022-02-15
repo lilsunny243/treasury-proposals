@@ -6,9 +6,9 @@ Subscan is an aggregated Blockchain explorer for Substrate-based chains. We have
 - Testnet: Westend, Rococo
 - Public parachain: Statemine
 
-  We not just provide basic explorer services for the above networks, and develop new features, optimize the ux and fix bugs as always.
-  Please refer to the version update document:
-  https://medium.com/subscan
+We not just provide basic explorer services for the above networks, and develop new features, optimize the ux and fix bugs as always.
+Please refer to the version update document:
+> https://medium.com/subscan
 
 Over the past few months，We have seen an encouraging trend in the number of users and their level of activity. However, with the rapid growth of users, stability and reliability in infrastructure are becoming a challenge. As a result, Subscan has to expend more resources to ensure the quality of the service. 
 
