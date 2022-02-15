@@ -12,7 +12,7 @@ Please refer to the version update document:
 
 Over the past few months，We have seen an encouraging trend in the number of users and their level of activity. However, with the rapid growth of users, stability and reliability in infrastructure are becoming a challenge. As a result, Subscan has to expend more resources to ensure the quality of the service. 
 
-Actually, Subscan is starting to generate some revenue, which mainly comes from the development fee and O&M fee to support the new network. As our original supporters, Parity/W3F helped a lot in the early stage of Subscan. We don't want to charge the team a high premium O&M fee to gain profits, instead we will do more development and research to provide better explorer services to repay the ecosyetem. Therefore, we decided to only apply the necessary infrastructure costs as O&M fees, and the rest of the cost will on the subscan team. 
+Actually, Subscan is starting to generate some revenue, which mainly comes from the development fee and O&M fee to support the new network. As our original supporters, Parity/W3F helped a lot in the early stage of Subscan. We don't want to charge the team a high premium O&M fee to gain profits, instead we will do more development and research to provide better explorer services to repay the ecosyetem. Therefore, we decided to only apply the necessary infrastructure costs as O&M fees, and the rest of the cost such as human resources and development will on the subscan team. We look forward to growing rapidly and taking on more and more responsibilities.
 
 ## Current Service Scale of Subscan
 
