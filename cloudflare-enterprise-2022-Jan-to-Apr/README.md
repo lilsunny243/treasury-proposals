@@ -4,7 +4,7 @@
 
 ## About Subscan
 
-Subscan is an aggregate high-precision blockchain explorer for Substrate-based chains. We have been supporting several influential blockchains, including Polkadot, Kusama, Rococo, and Westend for over a year. For many users, Subscan is their first stop in the blockchain world. As we continue to deliver new features and support more blockchains, our user base is on the steady rise. Therefore, high robustness and availability are currently among our major concerns.
+Subscan is an aggregate high-precision blockchain explorer for Substrate-based chains. We have been supporting several influential blockchains, including Polkadot, Kusama, Rococo, and Westend. For many users, Subscan is their first stop in the blockchain world. As we continue to deliver new features and support more blockchains, our user base is on the steady rise. Therefore, high robustness and availability are currently among our major concerns.
 
 
 
