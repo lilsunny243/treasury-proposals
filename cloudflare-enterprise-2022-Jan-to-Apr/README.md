@@ -33,7 +33,7 @@ This time we apply for the fee from January 15, 2022 to April 14, 2022, and the 
 
 This proposal is for Subscan's Cloudflare enterprise plan (mid-January to mid-April), the Cloudflare enterprise service fee is **$15,300**. 
 
-As subscan grows, we will strive to cover more and more costs until fully independent . This plan applies for 85% of the cost of Cloudflare enterprise service: **15,300 * 85% = $13,005**
+As Subscan grows, we will strive to cover more and more costs until fully independent . This plan applies for 85% of the cost of Cloudflare enterprise service: **15,300 * 85% = $13,005**
 
 Therefore, the amount we are requesting is **613 DOT (1 DOT ≈ 21.20 $USD)**.
 
