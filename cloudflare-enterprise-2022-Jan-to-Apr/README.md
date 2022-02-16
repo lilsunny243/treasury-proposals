@@ -23,7 +23,7 @@ The previous proposal was for advance payment, now I am here to update the where
 
 
 
-## The Financial Support
+## Total Amount
 
 This time we apply for the fee from January 15, 2022 to April 14, 2022, and the invoice is as follows:
 
